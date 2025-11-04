@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAMID.com.yourcompany.palpan", 
+        "paths": [
+          "/login",
+          "/home",
+          "/calendar",
+          "/files/pdf/*",
+          "/files/images/*",
+          "/settings/*"
+        ]
+      }
+    ]
+  }
+}
